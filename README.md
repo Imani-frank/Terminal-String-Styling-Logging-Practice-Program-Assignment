@@ -1,0 +1,2 @@
+# Terminal-String-Styling-Logging-Practice-Program-Assignment
+A JavaScript practice program focused on terminal string styling and console logging. This assignment demonstrates how to format, structure, and display readable, visually distinct messages in the terminal using string manipulation and logging techniques, helping improve debugging clarity, output organization, and clean coding practices.
